@@ -50,6 +50,3 @@ saucedemo-automation
 Contributions, suggestions, and improvements are welcome.
 
 ---
-
-## License
-This project is free to use for learning and testing purposes.
